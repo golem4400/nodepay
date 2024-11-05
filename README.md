@@ -1,10 +1,10 @@
 Hướng dẫn: 
 
-YÊU CẦU ĐÃ CÀI PYTHON NHÉ ANH EM
+YÊU CẦU ĐÃ CÀI PYTHON
 
 Chạy lệnh sau để cài các module cần thiết
 
-pip install -r requirements.txt
+``pip install -r requirements.txt``
 
 tạo 2 file data.txt và proxy.txt nhé
 
