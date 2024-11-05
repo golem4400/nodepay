@@ -1,4 +1,4 @@
-**Hướng dẫn: **__
+*Hướng dẫn:
 
 YÊU CẦU ĐÃ CÀI PYTHON
 
