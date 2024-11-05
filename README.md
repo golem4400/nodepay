@@ -1,4 +1,4 @@
-Hướng dẫn: 
+**Hướng dẫn: **__
 
 YÊU CẦU ĐÃ CÀI PYTHON
 
@@ -12,13 +12,13 @@ tạo 2 file data.txt và proxy.txt nhé
 
 trong file data.txt phải có định dạng
 
-eyJhbGciOiJIUzUxMiJ9....
+``eyJhbGciOiJIUzUxMiJ9....``
 
-Lấy data bằng cách vào https://app.nodepay.ai/dashboard bấm f12, dán code sau vào console
+Lấy data bằng cách vào ``https://app.nodepay.ai/dashboard`` bấm f12, dán code sau vào console
 
-localStorage.getItem('np_token');
+``localStorage.getItem('np_token');``
 copy chuỗi vừa lấy được ném vào data.txt, hoặc có thể lấy trong network nhé
 
 Chạy tool bằng lệnh
 
-python nodepay.py
+``python nodepay.py``
